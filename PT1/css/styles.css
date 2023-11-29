@@ -1,0 +1,36 @@
+body{
+  background-color: #2a2a2a;
+  background-image: url("../img/violet-light-rising-background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  font-size: 16px;
+  color: white;
+}
+
+.container{
+  max-width: 800px;
+}
+
+#head-content {
+  margin-top: 15vh;
+}
+
+.card {
+  background-color: #cecece;
+  color: #2a2a2a;
+}
+
+#login-title{
+display: flex;
+border-radius: 5px 5px 0px 0px;
+justify-content: space-between;
+background-color: white;
+color: gray;
+}
+
+#bottom-content > div > button {
+  margin-left: 0.2em;
+  margin-right: 0.2em;
+}

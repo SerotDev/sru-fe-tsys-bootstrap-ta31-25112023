@@ -1,0 +1,20 @@
+body{
+  background-color: #cecece;
+  font-size: 16px;
+  color: black;
+}
+
+.container-lg{
+  max-width: 1000px;
+  background-color: white;
+  min-height: 100vh;
+  padding: 0;
+}
+
+.navbar {
+  background-color: #eeeeee;
+}
+
+.banner{
+  background-color: #dadada;
+}
