@@ -8,4 +8,3 @@
   - [PT5 - Ejercicio 5](https://serotdev.github.io/sru-fe-tsys-bootstrap-ta31-25112023/PT5/index.html)
   - [PT6 - Ejercicio 6](https://serotdev.github.io/sru-fe-tsys-bootstrap-ta31-25112023/PT6/index.html)
   - [PT7 - Ejercicio 7](https://serotdev.github.io/sru-fe-tsys-bootstrap-ta31-25112023/PT7/index.html)
-  - [PT8 - Ejercicio 8](https://serotdev.github.io/sru-fe-tsys-bootstrap-ta31-25112023/PT8/index.html)
